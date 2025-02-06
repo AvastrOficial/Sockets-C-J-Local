@@ -1,1 +1,2 @@
-# Sockets-C-Local
+# Sockets Local
+Lenguaje C++ y Java
