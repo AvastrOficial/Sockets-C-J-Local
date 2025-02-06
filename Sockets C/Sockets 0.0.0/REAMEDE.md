@@ -25,14 +25,14 @@ gcc -o cliente cliente.c
 Ejecución del Servidor y el Cliente
 Ejecutar el Servidor
 
-    Abre una terminal y ejecuta el servidor con el siguiente comando:
+Abre una terminal y ejecuta el servidor con el siguiente comando:
 ```bash
 ./servidor
 ```
 El servidor comenzará a escuchar conexiones en el puerto 8080.
 Ejecutar el Cliente
 
-    Abre otra terminal y ejecuta el cliente con el siguiente comando:
+Abre otra terminal y ejecuta el cliente con el siguiente comando:
 ```bash
 ./cliente
 ```
