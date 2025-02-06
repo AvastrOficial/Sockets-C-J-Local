@@ -1,4 +1,4 @@
-0.0.0
+0.0.0 Lenguaje C#
 # Proyecto de Servidor y Cliente
 
 Este es un proyecto básico que implementa un servidor y un cliente. El servidor escucha conexiones en el puerto 8080 y el cliente se conecta a él para realizar operaciones.
