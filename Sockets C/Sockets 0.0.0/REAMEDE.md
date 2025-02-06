@@ -37,3 +37,7 @@ Abre otra terminal y ejecuta el cliente con el siguiente comando:
 ./cliente
 ```
 El cliente se conectará al servidor en el puerto 8080 para realizar operaciones.
+<br>
+Dominio ip : http://127.0.0.1:8080/
+<br>
+Puerto : 8080 
