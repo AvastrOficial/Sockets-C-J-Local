@@ -72,7 +72,9 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 3. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/AvastrOficial/Sockets-C-J-Local
-   cd tu-repositorio
+   cd Sockets-C-J-Local
+   ls
+   cd Sockets C && cd Sockets Java 0.0.1
    ```
 
 4. **Compilar los archivos Java:**
