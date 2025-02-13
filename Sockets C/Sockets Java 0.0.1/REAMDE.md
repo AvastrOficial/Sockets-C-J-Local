@@ -1,4 +1,4 @@
-0.0.2
+0.0.1
 
 ![imagen](https://github.com/user-attachments/assets/c74cef9d-5e13-4eed-be8c-90988402da4a)
 
